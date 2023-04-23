@@ -22,7 +22,7 @@ namespace Activity_5
 
             StreamWriter sw = new StreamWriter("C:\\Users\\KENNETH GABRIEL\\source\\repos\\StreamReader.txt");
 
-            sw.WriteLine("Hi World!!");
+            sw.WriteLine("Hello Activity_5!!");
             sw.WriteLine("From Activity_5");
 
             sw.Close();
